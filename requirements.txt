@@ -1,0 +1,22 @@
+# Core analysis
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart   # if you upload CSVs via /train
+
+# Data fetching (Inside Airbnb)
+requests
+beautifulsoup4
+
+# Optional: nice to have in notebooks
+ipykernel
+
+# Testing
+pytest
